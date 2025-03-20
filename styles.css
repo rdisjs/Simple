@@ -213,7 +213,6 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-/* Animation Keyframes */
 @keyframes fadeIn {
   from {
     opacity: 0;
